@@ -1,0 +1,8 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.bg-img {
+    width: 100%;
+    background-image: url(../img/contact-visual.png);
+    background-size: cover;
+}
